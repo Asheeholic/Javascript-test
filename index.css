@@ -33,8 +33,8 @@ body{
     border-right: none;
     border-bottom: 3px solid #ecf0f1;
     background : 0;
-    margin-bottom : 1em
-    
+    margin-bottom : 1em;
+    color : #ecf0f1;
 }
 
 .input-toDo {
@@ -47,7 +47,7 @@ body{
     border-right: none;
     border-bottom: 3px solid #ecf0f1;
     background : 0;
-    writ
+    color : #ecf0f1;
 }
 
 ::placeholder {
